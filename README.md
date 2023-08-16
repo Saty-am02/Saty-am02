@@ -109,7 +109,7 @@
 </p>
 
 
-<p><img width="100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saty-am02&show_icons=true&locale=en" alt="saty-am02" /></p><br>
+<p><img width="1000vw" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saty-am02&show_icons=true&locale=en" alt="saty-am02" /></p><br>
 
 <p>&nbsp;<img width="100%" align="center" src="https://github-readme-stats.vercel.app/api?username=saty-am02&show_icons=true&locale=en&layout=compact" alt="saty-am02" /></p><br>
 
