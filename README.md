@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm satyam Tiwari</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saty-am02&theme=gruvbox" alt="saty-am02" /> </p>
 
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=saty-am02&theme=gruvbox&row=2&column=7&margin-w=15&margin-h=15&no-frame=true"/></p>
