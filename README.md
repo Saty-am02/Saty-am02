@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saty-am02&theme=gruvbox" alt="saty-am02" /> </p>
 
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=saty-am02&theme=gruvbox&row=2&column=3&margin-w=15&margin-h=15&no-frame=true"><img src="https://github.com/saty-am02/github-profile-trophy" alt="saty-am02" /></a> </p>
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=saty-am02&theme=gruvbox&row=2&column=3&margin-w=15&margin-h=15&no-frame=true"><img src="https://github.com/saty-am02/github-profile-trophy" alt="saty-am02" /></p>
 
 - 🌱 I’m currently pursuing **MCA from MIT**
 
