@@ -4,14 +4,10 @@
 <h3 align="center">A passionate web developer from India</h3>
 
 
-https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=gruvbox
-
-<p align="center">
 [![trophy]( https://github-profile-trophy.vercel.app/?username=saty-am02&theme=gruvbox&row=2&column=3&margin-w=15&margin-h=15&no-frame=true)](https://github.com/saty-am02/github-profile-trophy)
 
-</p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=saty-am02&theme=gruvbox" alt="saty-am02" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saty-am02&theme=gruvbox" alt="saty-am02" /> </p>
 
 <p align="center"> <a href="https://github-profile-trophy.vercel.app/?username=saty-am02&theme=gruvbox&row=2&column=3&margin-w=15&margin-h=15&no-frame=true"><img src="https://github-profile-trophy.vercel.app/?username=saty-am02" alt="saty-am02" /></a> </p>
 
