@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm satyam Tiwari</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
+![inspire black desktop wallpaper (1)](https://github.com/Saty-am02/EvEBlush/assets/88832726/68c3faf1-165d-42fe-a88f-6b3e28fff983)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saty-am02&theme=gruvbox" alt="saty-am02" /> </p>
 
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=saty-am02&theme=gruvbox&row=2&column=7&margin-w=15&margin-h=15&no-frame=true"/></p>
@@ -12,7 +14,6 @@
 
 - 📄 Know about my experiences [https://saty-am02.github.io/EvEBlush/img/resume.pdf](https://saty-am02.github.io/EvEBlush/img/resume.pdf)
 
-![inspire black desktop wallpaper (1)](https://github.com/Saty-am02/EvEBlush/assets/88832726/68c3faf1-165d-42fe-a88f-6b3e28fff983)
 
 
 ### Blogs posts
