@@ -49,7 +49,7 @@
  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://github.com/Saty-am02/EvEBlush/assets/88832726/8f9f66f1-a499-4502-aafe-395f4ef7519a" alt="nextjs" width="40" height="40"/> </a>
+  <img src="https://github.com/Saty-am02/EvEBlush/assets/88832726/239f15ea-cbb0-4926-a615-809208a79daf" alt="nextjs" width="40" height="40"/> </a>
 </p>
 
 <p>JS Framework<br>
@@ -68,7 +68,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://github.com/Saty-am02/EvEBlush/assets/88832726/28a05a66-6460-4d07-a39d-6e9ad82fd550" alt="express" width="40" height="40"/>
+  <img src="https://github.com/Saty-am02/EvEBlush/assets/88832726/eb779a6a-9cef-4118-b4c7-4d6b83cddafd" alt="express" width="40" height="40"/>
   </p>
 <p>DataServices<br>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
@@ -97,9 +97,9 @@
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
 </p>
    
-<p>AI/ML</p>
+<p>AI/ML<br>
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-
+</p>
 <p>Mobile App Development<br>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
 </p>
