@@ -1,4 +1,4 @@
-<div style="background-color:black">
+<div style="background:black;">
 
 <h1 align="center">Hi 👋, I'm sat-yam02</h1>
 <h3 align="center">A passionate web developer from India</h3>
@@ -7,7 +7,7 @@
 https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=gruvbox
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=saty-am02&theme=onedark)](https://github.com/saty-am02/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=saty-am02&theme=onedark&row=2&column=3)](https://github.com/saty-am02/github-profile-trophy)
 
 
 
