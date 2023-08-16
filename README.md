@@ -4,7 +4,7 @@
 <h3 align="center">A passionate web developer from India</h3>
 
 
-[![trophy]( https://github-profile-trophy.vercel.app/?username=saty-am02&theme=gruvbox&row=2&column=3&margin-w=15&margin-h=15&no-frame=true)](https://github.com/saty-am02/github-profile-trophy)
+[![trophy]( https://github-profile-trophy.vercel.app/?username=saty-am02&theme=gruvbox&row=2&column=6&margin-w=15&margin-h=15&no-frame=true)](https://github.com/saty-am02/github-profile-trophy)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saty-am02&theme=gruvbox" alt="saty-am02" /> </p>
