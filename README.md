@@ -13,7 +13,7 @@ https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=gruvbox
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=saty-am02&theme=gruvbox" alt="saty-am02" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saty-am02" alt="saty-am02" /></a> </p>
+<p align="center"> <a href="https://github-profile-trophy.vercel.app/?username=saty-am02&theme=gruvbox&row=2&column=3&margin-w=15&margin-h=15&no-frame=true"><img src="https://github-profile-trophy.vercel.app/?username=saty-am02" alt="saty-am02" /></a> </p>
 
 - 🌱 I’m currently pursuing **MCA from MIT**
 
