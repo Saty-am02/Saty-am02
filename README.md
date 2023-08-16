@@ -108,6 +108,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
 </p>
 
+<hr>
 
 <p align="center"><img width="300vw" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saty-am02&show_icons=true&locale=en" alt="saty-am02" /></p><br>
 
