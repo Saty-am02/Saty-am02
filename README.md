@@ -24,7 +24,7 @@
 <!-- <a href="/dddd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="dddd" height="30" width="40" /></a>
 </p> -->
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3>
 <h4 align="left">Web Development :</h4>
 <h4 align="left">Frontend</h4>
 <p align="left">HTML</p>
