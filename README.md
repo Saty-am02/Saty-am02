@@ -7,7 +7,7 @@
 https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=gruvbox
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=saty-am02&theme=onedark&row=2&column=3&margin-w=15&margin-h=15)](https://github.com/saty-am02/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=saty-am02&theme=onedark&row=2&column=3&margin-w=15&margin-h=15&no-frame=true)](https://github.com/saty-am02/github-profile-trophy)
 
 
 
