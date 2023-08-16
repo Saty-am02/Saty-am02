@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm sat-yam02</h1>
 <h3 align="center">A passionate web developer from India</h3>
 https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=gruvbox
-[![trophy](https://github-profile-trophy.vercel.app/?username=sat-yam02&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sat-yam02&theme=onedark)](https://github.com/sat-yam02/github-profile-trophy)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saty-am02&theme=gruvbox" alt="saty-am02" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saty-am02" alt="saty-am02" /></a> </p>
