@@ -27,7 +27,7 @@
 <h3 align="center">Languages and Tools:</h3>
 <h4 align="left">Web Development :</h4>
 <h4 align="left">Frontend</h4>
-<p align="left">HTML</p><br>
+<p align="left">HTML</p>
  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
   
