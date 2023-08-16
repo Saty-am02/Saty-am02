@@ -12,6 +12,9 @@
 
 - 📄 Know about my experiences [https://saty-am02.github.io/EvEBlush/img/resume.pdf](https://saty-am02.github.io/EvEBlush/img/resume.pdf)
 
+![inspire black desktop wallpaper (1)](https://github.com/Saty-am02/EvEBlush/assets/88832726/68c3faf1-165d-42fe-a88f-6b3e28fff983)
+
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
