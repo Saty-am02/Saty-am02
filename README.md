@@ -4,7 +4,7 @@
 
 ![inspire black desktop wallpaper (1)](https://github.com/Saty-am02/EvEBlush/assets/88832726/8945c285-4e35-4673-ae5e-1db560e0676e)
 
-<img src="https://komarev.com/ghpvc/?username=saty-am02&theme=gruvbox" alt="saty-am02" />
+<p align="left"><img src="https://komarev.com/ghpvc/?username=saty-am02&theme=gruvbox" alt="saty-am02" /></p>
 
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=saty-am02&theme=gruvbox&row=2&column=7&margin-w=15&margin-h=15&no-frame=true"/></p>
 
