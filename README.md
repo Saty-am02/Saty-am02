@@ -10,9 +10,9 @@
 
 - 🌱 I’m currently pursuing **MCA from MIT**
 
-- 👨‍💻 my personal web address is [EvEBlush](https://saty-am02.github.io/EvEBlush/))
+- 👨‍💻 my personal web address is [EvEBlush ](https://saty-am02.github.io/EvEBlush/))
 
-- 📄 Know about my experiences [https://saty-am02.github.io/EvEBlush/img/resume.pdf](https://saty-am02.github.io/EvEBlush/img/resume.pdf)
+- 📄 Know about my experiences [Resume ](https://saty-am02.github.io/EvEBlush/img/resume.pdf)
 
 
 
