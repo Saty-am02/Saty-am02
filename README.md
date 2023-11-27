@@ -1,8 +1,7 @@
 
-<h1 align="center">Hi ,<img src="https://github.com/Saty-am02/EvEBlush/assets/88832726/c7e3ac42-9cbd-47d3-ad12-6b55af760265" alt="Profile Image" width="50px" height="50px">, I'm satyam Tiwari</h1>
+<h1 align="center">Hi <img src="https://github.com/Saty-am02/EvEBlush/assets/88832726/c7e3ac42-9cbd-47d3-ad12-6b55af760265" alt="Profile Image" width="50px" height="50px">, I'm satyam Tiwari</h1>
 <h3 align="center">A passionate web developer from India</h3>
-
-![inspire black desktop wallpaper](https://github.com/Saty-am02/TodoList/assets/88832726/01061cb5-b7ff-40b3-84da-da0fdb017330)
+<img src="https://github.com/Saty-am02/EvEBlush/assets/88832726/c7e3ac42-9cbd-47d3-ad12-6b55af760265" alt="Profile Image">
 
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=saty-am02&theme=gruvbox" alt="saty-am02" /></p>
