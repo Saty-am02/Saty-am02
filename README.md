@@ -2,7 +2,7 @@
 <h1 align="center">Hi <img src="https://github.com/Saty-am02/EvEBlush/assets/88832726/c7e3ac42-9cbd-47d3-ad12-6b55af760265" alt="Profile Image" width="50px" height="50px">, I'm satyam Tiwari</h1>
 <h3 align="center">A passionate web developer from India</h3>
 <img src="https://github.com/Saty-am02/EvEBlush/assets/88832726/01a95121-1d7d-4b7e-b8d5-675d6dd2280e" alt="Profile Image">
-<a herf="https://github.com/Saty-am02/EvEBlush/assets/88832726/c7e3ac42-9cbd-47d3-ad12-6b55af760265" download> download</a>
+
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=saty-am02&theme=gruvbox" alt="saty-am02" /></p>
 
